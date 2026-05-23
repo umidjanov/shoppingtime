@@ -1,0 +1,215 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Aegean Cloud Towel",
+    "category": "towels",
+    "price": 48,
+    "description": "Woven from 600-GSM long-staple Turkish cotton, the Aegean Cloud Towel offers a featherweight softness that improves with every wash. Its double-loop pile construction maximizes absorbency while remaining luxuriously plush against the skin. Each towel is finished with a classic dobby border in a contrasting hue, adding a refined detail to your bathroom.",
+    "images": [
+      "https://images.unsplash.com/photo-1600369672770-985fd30004eb?w=800&q=80",
+      "https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?w=800&q=80",
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+    ],
+    "colors": ["Ivory", "Slate Blue", "Sage Green", "Blush Rose", "Charcoal"],
+    "sizes": ["Hand Towel", "Bath Towel", "Bath Sheet"],
+    "stock": 142,
+    "rating": 4.8,
+    "reviewCount": 312,
+    "isFeatured": true,
+    "tags": ["bestseller", "turkish-cotton", "600gsm"]
+  },
+  {
+    "id": "prod-002",
+    "name": "Riviera Stripe Towel",
+    "category": "towels",
+    "price": 36,
+    "description": "Inspired by the sun-drenched coast of Southern France, the Riviera Stripe Towel brings effortless elegance to your bathroom. Crafted from ring-spun cotton for a smooth, velvety finish, its bold yet tasteful stripes evoke a sense of relaxed Mediterranean luxury. Lightweight and quick-drying.",
+    "images": [
+      "https://images.unsplash.com/photo-1583845112239-97ef1341b271?w=800&q=80",
+      "https://images.unsplash.com/photo-1600369672770-985fd30004eb?w=800&q=80"
+    ],
+    "colors": ["Navy & White", "Terracotta & Cream", "Forest & Linen"],
+    "sizes": ["Hand Towel", "Bath Towel"],
+    "stock": 89,
+    "rating": 4.5,
+    "reviewCount": 178,
+    "isFeatured": false,
+    "tags": ["striped", "ring-spun", "coastal"]
+  },
+  {
+    "id": "prod-003",
+    "name": "Onsen Waffle Towel",
+    "category": "towels",
+    "price": 42,
+    "description": "Drawing inspiration from Japan's centuries-old bathing tradition, the Onsen Waffle Towel combines a distinctive waffle-weave texture with the absorbency of premium cotton. It air-dries rapidly and takes up minimal space, making it the ideal companion for the well-traveled minimalist. The geometric texture adds a sculptural quality to any bathroom space.",
+    "images": [
+      "https://images.unsplash.com/photo-1563178406-4cdc2923acbc?w=800&q=80",
+      "https://images.unsplash.com/photo-1600369672770-985fd30004eb?w=800&q=80"
+    ],
+    "colors": ["Linen", "Midnight", "Stone", "Dusty Rose"],
+    "sizes": ["Hand Towel", "Bath Towel", "Bath Sheet", "Face Cloth"],
+    "stock": 204,
+    "rating": 4.9,
+    "reviewCount": 541,
+    "isFeatured": true,
+    "tags": ["waffle-weave", "quick-dry", "minimalist"]
+  },
+  {
+    "id": "prod-004",
+    "name": "Cashmere Touch Bathrobe",
+    "category": "robes",
+    "price": 185,
+    "description": "Envelop yourself in the supreme comfort of the Cashmere Touch Bathrobe. Constructed from a proprietary blend of extra-long-staple Pima cotton and modal, it achieves the impossibly soft hand-feel of cashmere at a fraction of the weight. Features include deep side pockets, a removable inner tie, and a shawl collar that frames the face elegantly.",
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80",
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+    ],
+    "colors": ["Ivory", "Platinum Grey", "Blush", "Deep Navy"],
+    "sizes": ["XS/S", "M/L", "XL/XXL"],
+    "stock": 67,
+    "rating": 4.9,
+    "reviewCount": 289,
+    "isFeatured": true,
+    "tags": ["bestseller", "pima-cotton", "modal", "luxury"]
+  },
+  {
+    "id": "prod-005",
+    "name": "Kimono Linen Robe",
+    "category": "robes",
+    "price": 128,
+    "description": "A modern reinterpretation of the traditional Japanese kimono, this robe is cut from a breathable linen-cotton blend that feels effortlessly elegant in warmer months. Its relaxed silhouette and wide sleeves drape beautifully, while the woven belt cinches to define the waist. An artisanal piece that bridges loungewear and wearable fashion.",
+    "images": [
+      "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=800&q=80",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80"
+    ],
+    "colors": ["Natural Linen", "Washed Indigo", "Rust", "Sage"],
+    "sizes": ["One Size", "Plus Size"],
+    "stock": 43,
+    "rating": 4.6,
+    "reviewCount": 134,
+    "isFeatured": false,
+    "tags": ["linen", "kimono", "summer", "artisanal"]
+  },
+  {
+    "id": "prod-006",
+    "name": "Heritage Terry Robe",
+    "category": "robes",
+    "price": 95,
+    "description": "Classic hotel-grade luxury brought to your home bathroom. The Heritage Terry Robe is constructed from a substantial 450-GSM double-knit terry cotton that absorbs moisture immediately upon contact. Its timeless shawl collar, patch pockets, and loop to hang create an authentic five-star hotel experience. Built to last decades.",
+    "images": [
+      "https://images.unsplash.com/photo-1566909691360-3f8c7e28d2d2?w=800&q=80"
+    ],
+    "colors": ["Bright White", "Ecru", "Graphite"],
+    "sizes": ["S/M", "L/XL", "XXL"],
+    "stock": 115,
+    "rating": 4.7,
+    "reviewCount": 402,
+    "isFeatured": false,
+    "tags": ["hotel-grade", "terry", "450gsm", "classic"]
+  },
+  {
+    "id": "prod-007",
+    "name": "Sateen Duvet Cover Set",
+    "category": "bedding",
+    "price": 240,
+    "description": "Woven from 400-thread-count long-staple Egyptian cotton in a four-over-one sateen weave, this duvet cover set has the luminous sheen and silky smoothness of fine fabric. The set includes a duvet cover and two pillowcases, all with concealed button closures and interior corner ties. An investment in the finest possible sleep.",
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80",
+      "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80"
+    ],
+    "colors": ["Chalk White", "Dove Grey", "Midnight Blue", "Warm Sand", "Terracotta"],
+    "sizes": ["Single", "Double", "King", "Super King"],
+    "stock": 78,
+    "rating": 4.8,
+    "reviewCount": 367,
+    "isFeatured": true,
+    "tags": ["egyptian-cotton", "400tc", "sateen", "bestseller"]
+  },
+  {
+    "id": "prod-008",
+    "name": "Percale Sheet Set",
+    "category": "bedding",
+    "price": 180,
+    "description": "Percale is the gold standard for those who sleep warm. This sheet set features a crisp, one-over-one plain weave in 300-thread-count combed cotton that gets cooler and crisper with each wash. Includes a fitted sheet with deep 38cm pockets, a flat sheet, and two pillowcases. The relaxed, matte finish is timelessly understated.",
+    "images": [
+      "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=800&q=80",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80"
+    ],
+    "colors": ["Pure White", "Frost", "Hazel", "Slate", "Blush"],
+    "sizes": ["Single", "Double", "King", "Super King"],
+    "stock": 132,
+    "rating": 4.7,
+    "reviewCount": 289,
+    "isFeatured": false,
+    "tags": ["percale", "300tc", "cool-sleep", "crisp"]
+  },
+  {
+    "id": "prod-009",
+    "name": "Waffle Knit Throw Blanket",
+    "category": "bedding",
+    "price": 95,
+    "description": "A versatile piece designed to be as beautiful as it is functional. The Waffle Knit Throw is crafted from a lightweight cotton-polyester blend with a deep waffle texture that adds visual interest and tactile pleasure. Perfect for layering at the foot of the bed, draped over a sofa, or used as a travel companion.",
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80"
+    ],
+    "colors": ["Cream", "Warm Grey", "Dusty Blue", "Terracotta", "Olive"],
+    "sizes": ["130x170cm", "150x200cm"],
+    "stock": 198,
+    "rating": 4.6,
+    "reviewCount": 445,
+    "isFeatured": false,
+    "tags": ["throw", "waffle-knit", "versatile", "layering"]
+  },
+  {
+    "id": "prod-010",
+    "name": "Mercer Hardshell Suitcase",
+    "category": "suitcases",
+    "price": 395,
+    "description": "The Mercer is engineered for the discerning traveler who refuses to compromise. Its aerospace-grade polycarbonate shell is virtually indestructible yet featherlight. Four 360° spinner wheels glide silently on any surface, while the TSA-approved lock system provides peace of mind at international borders. The interior features a full-coverage divider, compression straps, and a toiletry pocket.",
+    "images": [
+      "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=800&q=80",
+      "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=800&q=80"
+    ],
+    "colors": ["Midnight Black", "Arctic White", "Deep Navy", "Burgundy", "Forest Green"],
+    "sizes": ["Cabin (38L)", "Medium (68L)", "Large (87L)"],
+    "stock": 54,
+    "rating": 4.9,
+    "reviewCount": 198,
+    "isFeatured": true,
+    "tags": ["polycarbonate", "spinner", "tsa-lock", "premium"]
+  },
+  {
+    "id": "prod-011",
+    "name": "Soho Softside Carry-On",
+    "category": "suitcases",
+    "price": 265,
+    "description": "Crafted from a high-density ripstop ballistic nylon with a water-resistant finish, the Soho Softside offers an exceptional strength-to-weight ratio for the weekend traveler. Its expandable main compartment adds 15% extra packing space when you need it, while the front organizational panel keeps documents and essentials instantly accessible.",
+    "images": [
+      "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=800&q=80"
+    ],
+    "colors": ["Carbon Black", "Slate Blue", "Camel", "Olive Drab"],
+    "sizes": ["Cabin (35L)"],
+    "stock": 71,
+    "rating": 4.5,
+    "reviewCount": 156,
+    "isFeatured": false,
+    "tags": ["softside", "carry-on", "nylon", "expandable"]
+  },
+  {
+    "id": "prod-012",
+    "name": "Atlas Weekender Duffel",
+    "category": "suitcases",
+    "price": 175,
+    "description": "The Atlas is the bridge between a duffel bag and a carry-on. Made from full-grain leather handles and a waxed canvas body, it develops a rich patina over years of travel. The structured base keeps it upright when packed, and a zip-around expansion panel opens the entire top for easy loading. A trolley sleeve on the back attaches it to your rolling luggage.",
+    "images": [
+      "https://images.unsplash.com/photo-1488561859946-e7b5b07b2a0d?w=800&q=80"
+    ],
+    "colors": ["Tan Canvas", "Charcoal Canvas", "Olive Canvas"],
+    "sizes": ["40L", "55L"],
+    "stock": 38,
+    "rating": 4.7,
+    "reviewCount": 87,
+    "isFeatured": false,
+    "tags": ["duffel", "canvas", "leather", "weekender"]
+  }
+]
