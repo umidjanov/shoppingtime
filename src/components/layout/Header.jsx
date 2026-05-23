@@ -62,7 +62,7 @@ export default function Header() {
     <>
       <div className="bg-stone-900 text-stone-200 text-center py-2 text-xs tracking-widest font-medium uppercase">
         {t('announcement')}
-      </div>
+      </div> 
 
       <header className={`sticky top-0 z-50 bg-stone-50/95 backdrop-blur-md border-b border-stone-200 transition-shadow duration-300 ${scrolled ? 'shadow-sm' : ''}`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6">

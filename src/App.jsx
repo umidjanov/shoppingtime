@@ -19,7 +19,7 @@ import AdminDashboard from './components/admin/AdminDashboard';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/', 
     element: <MainLayout />,
     children: [
       { index: true, element: <HomePage /> },

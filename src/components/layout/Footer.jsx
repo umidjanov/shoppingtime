@@ -15,7 +15,7 @@ export default function Footer() {
       { label: t('footer_new_arrivals'), to: '/shop' },
     ],
     [t('footer_company')]: [
-      { label: t('footer_about'), to: '/' },
+      { label: t('footer_about'), to: '/' }, 
       { label: t('footer_sustainability'), to: '/' },
       { label: t('footer_careers'), to: '/' },
       { label: t('footer_press'), to: '/' },
